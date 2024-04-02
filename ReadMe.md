@@ -55,7 +55,10 @@ SYCL is an open alternative to single-architecture proprietary languages. It all
 
 # How to start ?
 You start our project by running the [Start Here](https://github.com/DarkTechPirate/IntelliZen/blob/main/Web-Interface/start.html) file.
-Here is the way how you can continue after that.
+Here is the way how you can continue after that.<br>
+<br>
+
+![image](https://github.com/golu91/IntelliZen/blob/main/assets/front-page.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
